@@ -13,4 +13,7 @@ HEYYYYY
 #### github practice with team ***Gryffindor***
 Hello Gryffindor team
 
+Richard Feynman quote
+Mother, Father and Uncle John went to town on a horse, Mother fell off, Father fell off but Uncle John went on and on and on and on
+
 Hi there - adding a line as part of Intro to Github part #2.  Cheers, Gracie.
